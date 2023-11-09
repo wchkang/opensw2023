@@ -5,4 +5,6 @@
 
 void foo();
 
+void goo();
+
 #endif
